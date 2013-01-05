@@ -9,14 +9,23 @@ Schedule
 Meeting at Betahaus on Saturday 19th January.
 
 09:30 Settling In and [Intro](https://docs.google.com/presentation/d/1D4DCf-GlhgG8Be1hcC2Y2RsCS8U8pMpI1Jx-IRqE91g/edit)
+
 10:00 C
+
 11:00 Java
+
 12:00 Go
+
 13:00 Lunch
+
 14:00 Ruby
+
 15:00 Clojure
+
 16:00 Haskell
+
 17:00 Erlang
+
 18:00 Done
 
 Slide links will be posted soon.
