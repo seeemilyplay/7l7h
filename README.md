@@ -30,6 +30,23 @@ Meeting at Betahaus on Saturday 19th January.
 
 Slide links will be posted soon.
 
+Code Guide
+----------
+
+There is a directory of code for each language. These have up to 3 subdirectories, that are named as follows:
+
+_example_
+
+Contains example code. We'll be looking at these in detail together.
+
+_task_
+
+For each language you will be doing a task. This directory contains any stub code for the task.
+
+_solution_
+
+This is a possible solution to the set task. Don't look here until after you have tried the task for yourself.
+
 Installation Instructions
 -------------------------
 
