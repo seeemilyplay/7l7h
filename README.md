@@ -33,7 +33,7 @@ Slide links will be posted soon.
 Code Guide
 ----------
 
-There is a directory of code for each language. These have up to 3 subdirectories, that are named as follows:
+There is a directory of code for each language. These have up to 3 subdirectories that are named as follows:
 
 _example_
 
@@ -130,11 +130,19 @@ __Haskell__
 
 __Erlang__
 
+First download the most recent release from [here](http://www.erlang.org/download.html).
+Now un-tar the download, and install with make by running the following:
+
+    $ tar -xzf otp_src_R13B02-1.tar.gz
+    $ cd otp_src_R13B02-1
+    $ ./configure
+    $ make
+    $ sudo make install
 
 Verification
 ------------
 
-To verify that everything is installed, check that you can run the following.
+To verify that everything is installed check that you can run the following.
 
 __C__
 
