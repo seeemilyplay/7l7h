@@ -27,15 +27,15 @@ Installation Instructions
 Ubuntu
 ------
 
+It's best to install Java separately, but if you'd like to install the rest at once rather than one at a time:
+
+    $ sudo apt-get install build-essential golang ruby clojure ghc erlang
+
+After installing please go to the bottom of the page and follow the verification instructions.
+
 __C__
 
-If you don't already have gcc installed:
-
     $ sudo apt-get install build-essential
-
-Make sure you can call:
-
-    $ gcc -v
 
 __Java__
 
@@ -45,177 +45,98 @@ or install the open JDK Debian package.
 
     $ sudo apt-get install openjdk
 
-Make sure you can call:
-
-    $ javac -version
-
-and also:
-
-    $ java -version
-
 __Go__
-
-Install from Debian:
 
     $ sudo apt-get install golang
 
-Make sure you can call:
-
-    $ go version
-
 __Ruby__
-
-Again install from Debian:
 
     $ sudo apt-get install ruby
 
-Make sure you can call:
-
-    $ ruby -v
-
 __Clojure__
-
-I love Debian:
 
     $ sudo apt-get install clojure
 
-Make sure you can call:
-
-    $ clojure -h
-
 __Haskell__
-
-Yet more Debian:
 
     $ sudo apt-get install ghc
 
-Make sure you can call:
-
-    $ ghc --help
-
-
 __Erlang__
 
-And more:
-
     $ sudo apt-get install erlang
-
-Make sure you can call:
-
-    $ erl
-
-This will enter an interactive mode.  Exit by typing:
-
-    1> halt().
 
 Mac
 ------
 
+After installing please go to the bottom of the page and follow the verification instructions.
+
 __C__
-
-Make sure you can call:
-
-    $ gcc -v
 
 __Java__
 
-You will need a Standard Edition JDK of version 1.6 or later.
-Accept the license agreement and [download from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html),
-or ...
-
-Make sure you can call:
-
-    $ javac -version
-
-and also:
-
-    $ java -version
-
 __Go__
-
-Make sure you can call:
-
-    $ go version
 
 __Ruby__
 
-Make sure you can call:
-
-    $ ruby -v
-
 __Clojure__
-
-Make sure you can call:
-
-    $ clojure -h
 
 __Haskell__
 
-Make sure you can call:
-
-    $ ghc --help
-
-
 __Erlang__
 
-Make sure you can call:
-
-    $ erl
-
-This will enter an interactive mode.  Exit by typing:
-
-    1> halt().
 Windows
 -------
 
+After installing please go to the bottom of the page and follow the verification instructions.
+
+
 __C__
 
-Make sure you can call:
+__Java__
+
+__Go__
+
+__Ruby__
+
+__Clojure__
+
+__Haskell__
+
+__Erlang__
+
+
+Verification
+------------
+
+To verify that everything is installed, check that you can run the following.
+
+__C__
 
     $ gcc -v
 
 __Java__
 
-You will need a Standard Edition JDK of version 1.6 or later.
-Accept the license agreement and [download from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html),
-or ...
-
-Make sure you can call:
-
     $ javac -version
-
-and also:
-
     $ java -version
 
 __Go__
-
-Make sure you can call:
 
     $ go version
 
 __Ruby__
 
-Make sure you can call:
-
     $ ruby -v
 
 __Clojure__
-
-Make sure you can call:
 
     $ clojure -h
 
 __Haskell__
 
-Make sure you can call:
-
     $ ghc --help
 
 
 __Erlang__
-
-Make sure you can call:
 
     $ erl
 
