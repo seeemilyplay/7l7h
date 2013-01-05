@@ -110,6 +110,15 @@ __Haskell__
 
 __Erlang__
 
+First download the most recent release from [here](http://www.erlang.org/download.html).
+Now un-tar the download, and install with make by running the following:
+
+    $ tar -xzf otp_src_R13B02-1.tar.gz
+    $ cd otp_src_R13B02-1
+    $ ./configure
+    $ make
+    $ sudo make install
+
 Windows
 -------
 
@@ -129,15 +138,6 @@ __Clojure__
 __Haskell__
 
 __Erlang__
-
-First download the most recent release from [here](http://www.erlang.org/download.html).
-Now un-tar the download, and install with make by running the following:
-
-    $ tar -xzf otp_src_R13B02-1.tar.gz
-    $ cd otp_src_R13B02-1
-    $ ./configure
-    $ make
-    $ sudo make install
 
 Verification
 ------------
