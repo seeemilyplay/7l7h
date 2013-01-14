@@ -53,7 +53,7 @@ Installation Instructions
 Ubuntu
 ------
 
-It's best to install Java separately, but if you'd like to install the rest at once rather than one at a time:
+It's best to install Java and Clojure separately, but if you'd like to install the rest at once rather than one at a time:
 
     $ sudo apt-get install build-essential golang ruby ghc erlang
 
@@ -123,9 +123,10 @@ Comes as standard with Mac OS.
 
 __Clojure__
 
-Make sure you have Java installed, as described above.
-Then follow the installation instructions to download the Clojure JAR file at:
-http://clojure.org/getting_started
+
+Download the latest stable release from http://clojure.org/downloads.
+
+Unzip the download.
 
 __Haskell__
 
