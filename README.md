@@ -102,17 +102,35 @@ After installing please go to the bottom of the page and follow the verification
 
 __C__
 
-Install XCode from the App Store.
+Install XCode from the App Store.  This includes the 'gcc' compiler we will be using.
 
 __Java__
 
+With Mac OS 10.6 and lower, Java should come pre-installed.
+
+For Mac OS 10.7, you will need to update your OS X installation if it is less than 10.7.3, then follow the instructions at:
+http://www.java.com/en/download/help/mac_install.xml
+The file it talks about that you need to install is quite well hidden, and it can be found via the 'Downloads' link at the top of that page.
+
 __Go__
+
+Follow the very simple installation instructions at:
+http://golang.org/doc/install#osx
 
 __Ruby__
 
+Comes as standard with Mac OS.
+
 __Clojure__
 
+Make sure you have Java installed, as described above.
+Then follow the installation instructions to download the Clojure JAR file at:
+http://clojure.org/getting_started
+
 __Haskell__
+
+Follow the installation instructions to install the Haskell Platform at:
+http://www.haskell.org/platform/mac.html
 
 __Erlang__
 
