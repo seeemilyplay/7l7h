@@ -55,7 +55,7 @@ Ubuntu
 
 It's best to install Java separately, but if you'd like to install the rest at once rather than one at a time:
 
-    $ sudo apt-get install build-essential golang ruby clojure ghc erlang
+    $ sudo apt-get install build-essential golang ruby ghc erlang
 
 After installing please go to the bottom of the page and follow the verification instructions.
 
@@ -83,7 +83,9 @@ __Ruby__
 
 __Clojure__
 
-    $ sudo apt-get install clojure
+Download the latest stable release from http://clojure.org/downloads.
+
+Unzip the download.
 
 __Haskell__
 
@@ -131,17 +133,40 @@ After installing please go to the bottom of the page and follow the verification
 
 __C__
 
+If it's not already installed go to http://sourceforge.net/projects/mingw/files/Installer
+and click the link to download the latest mingw-get-install-XXXXXXXX.exe.
+
+Run the executable, and go through the MinGW-Get Setup Wizard.
+
 __Java__
+
+You will need a Standard Edition JDK of version 1.6 or later.
+Accept the license agreement and download as an executable from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html).
+
+Run the downloaded executable to install.
 
 __Go__
 
+Download the .msi from http://code.google.com/p/go/downloads/list, and run to install.
+
 __Ruby__
+
+Use http://rubyinstaller.org/.
 
 __Clojure__
 
+Download the latest stable release from http://clojure.org/downloads.
+
+Unzip the download.
+
 __Haskell__
 
+Download and install the [Haskell Platform](http://www.haskell.org/platform/).
+
 __Erlang__
+
+Download the Windows Binary File from http://www.erlang.org/download.html,
+and then run to install.
 
 Verification
 ------------
@@ -167,7 +192,11 @@ __Ruby__
 
 __Clojure__
 
-    $ clojure -h
+Go to the directory which you unzipped earlier, and run:
+
+    $ java -cp clojure-1.4.0.jar clojure.main
+
+This should open up an interactive prompt.
 
 __Haskell__
 
