@@ -104,13 +104,27 @@ Install XCode from the App Store.
 
 __Java__
 
+Follow the instructions at:
+http://www.java.com/en/download/help/mac_install.xml
+
 __Go__
+
+Follow the installation instructions at:
+http://golang.org/doc/install#osx
 
 __Ruby__
 
+Comes as standard with Mac OS.
+
 __Clojure__
 
+Follow the installation instructions at:
+http://clojure.org/getting_started
+
 __Haskell__
+
+Follow the installation instructions at:
+http://www.haskell.org/platform/mac.html
 
 __Erlang__
 
