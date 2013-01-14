@@ -61,6 +61,8 @@ After installing please go to the bottom of the page and follow the verification
 
 __C__
 
+Probably already installed, but if not:
+
     $ sudo apt-get install build-essential
 
 __Java__
@@ -97,6 +99,8 @@ Mac
 After installing please go to the bottom of the page and follow the verification instructions.
 
 __C__
+
+Install XCode from the App Store.
 
 __Java__
 
