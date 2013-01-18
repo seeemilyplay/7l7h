@@ -1,0 +1,4 @@
+-module(hello).
+
+hello() ->
+  io:format("Hello, world!~n").

@@ -6,29 +6,25 @@ This contains code and examples to support the [7 Languages in 7 Hours] (http://
 Schedule
 ---------
 
-Meeting at Betahaus on Saturday 19th January.
+Meeting at Betahaus on Saturday 19th January, 11am - 6pm.
 
-09:30 Settling In and [Intro](https://docs.google.com/presentation/d/1D4DCf-GlhgG8Be1hcC2Y2RsCS8U8pMpI1Jx-IRqE91g/edit)
+Settling In and [Intro](https://docs.google.com/presentation/d/1D4DCf-GlhgG8Be1hcC2Y2RsCS8U8pMpI1Jx-IRqE91g/edit)
 
-10:00 C
+[C](https://docs.google.com/presentation/d/1mdWCwkH4TfRZ013RXhOD1v5wPXZneaXJJZKctz3dFlo/edit)
 
-11:00 Java
+[Java](https://docs.google.com/presentation/d/16nTY7_AP31-dq3Nxj3c2TKqyhaTcDeEvpzGGfZw5zxs/edit)
 
-12:00 Go
+[Go](https://docs.google.com/presentation/d/1IzRQAZ5oWhAaD62WNP7QT44b7QAf0S6uBPTtNXz9c6A/edit)
 
-13:00 Lunch
+[Ruby](https://docs.google.com/presentation/d/1s9uvI5Qd3EB16io6_f8rT1nLKQP2jMBlFB559pX9bIM/edit)
 
-14:00 Ruby
+[Clojure](https://docs.google.com/presentation/d/1JDxjql4HDPsdGgU9t6YlFZkkuHUvdjPY917Zz-QTGPM/edit)
 
-15:00 Clojure
+[Haskell](https://docs.google.com/presentation/d/1nIKuPik0wARncHUOMuOflFCApf_a0pQW-t6bQMJCiJc/edit)
 
-16:00 Haskell
+[Erlang](https://docs.google.com/presentation/d/18O2TZh-r5Xb_QiVCh6hQwsPEDW7iJKuyd5E9iZhqFwg/edit)
 
-17:00 Erlang
-
-18:00 Done
-
-Slide links will be posted soon.
+Lunch will squeeze in somewhere!
 
 Code Guide
 ----------
